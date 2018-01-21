@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1516543405 source:c:\users\sony\documents\aa coding projects\other\calculators\calculators\main.cpp
+	<iostream>
+	<string>
+	"programs.h"
+	"header.h"
+
+1516543013 c:\users\sony\documents\aa coding projects\other\calculators\calculators\programs.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<cmath>
+	"header.h"
+
+1516542988 c:\users\sony\documents\aa coding projects\other\calculators\calculators\header.h
+	<iostream>
+
+1516543013 source:c:\users\sony\documents\aa coding projects\other\calculators\calculators\programs.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<cmath>
+	"header.h"
+
+1516543369 c:\users\sony\documents\aa coding projects\other\calculators\calculators\programs.h
+	<iostream>
+	<string>
+	<math.h>
+	<cmath>
+	"header.h"
+
